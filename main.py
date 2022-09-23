@@ -9,3 +9,4 @@ elif a == "2":
     res = crawl.get_HUST_notice()
     for i in res:
         print(i + ":" + res[i])
+
